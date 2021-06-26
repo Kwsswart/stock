@@ -1,0 +1,1 @@
+Here to learn finance and technical indicators

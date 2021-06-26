@@ -1,1 +1,8 @@
-venv/*
+venv
+*.jsonlines
+*.csv
+*.h5
+*.trace
+*.profile-empty
+logs
+__pycache__
